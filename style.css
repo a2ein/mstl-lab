@@ -1,0 +1,17 @@
+*{
+    margin: 0; padding: 0; box-sizing: border-box;
+}
+.nav-top{
+    margin: 2rem; background-color: rgba(119, 119, 117, 0.11);
+    .header-title{
+color: rgb(36, 48, 158);
+font-weight: bolder; font-size:1.4rem;
+    }
+ul,li,a {
+    list-style: none; text-decoration: none;
+}
+
+ul{
+    display: flex;flex-direction: row;justify-content: space-around;
+}
+}
